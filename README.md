@@ -1,4 +1,4 @@
-# COD-SOFT
+# CODSOFT
 
 ## Overview
 COD-SOFT is a Java-based project that contains various coding solutions and implementations.
